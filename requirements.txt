@@ -1,0 +1,4 @@
+locust==2.32.5
+transformers
+datasets
+dotenv
